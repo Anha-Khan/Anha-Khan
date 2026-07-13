@@ -19,10 +19,7 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anha-Khan&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" width="90%" />
-</div>
+>
 
 <br>
 
