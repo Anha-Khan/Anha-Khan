@@ -48,10 +48,19 @@ Might also pick up how to use software to command hardware at some point, who kn
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/find_me_on.png" width="260" />
 <p align="center"> You can check them out ;) though my social life is on pause rn </p>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/social_stickers.png" width="500" />
+  <p align="center"><i>You can check them out ;) though my social life is on pause rn</i></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/anhakhan"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_linkedin.png" height="80" /></a>
+  <a href="https://www.instagram.com/anhaa._.a"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_instagram.png" height="80" /></a>
+  <a href="https://devpost.com/Anha-Khan"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_devpost.png" height="80" /></a>
+  <a href="https://www.facebook.com/share/1RqD8tAG3V/"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_facebook.png" height="80" /></a>
+  <a href="https://x.com/anhakhann"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_x.png" height="80" /></a>
 </div>
-</div>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anhakhan">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/anhaa._.a">Instagram</a> &nbsp;·&nbsp; <a href="https://devpost.com/Anha-Khan">Devpost</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/share/1RqD8tAG3V/">Facebook</a> &nbsp;·&nbsp; <a href="https://x.com/anhakhann">X</a>
+</p>
+
 <br>
 <p align="center">
   <a href="#">LinkedIn</a> &nbsp;·&nbsp; <a href="#">Instagram</a> &nbsp;·&nbsp; <a href="#">Devpost</a> &nbsp;·&nbsp; <a href="#">Facebook</a> &nbsp;·&nbsp; <a href="#">X</a>
