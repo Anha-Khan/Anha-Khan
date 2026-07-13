@@ -24,9 +24,9 @@
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/my_skills.png" width="260" />
-  <p align="center">currently learning, how to code "HELLO WORLD!" and figuring other things out using AI as i go,Also I can prompt build projects to stratch my own back,impactful projects with my own ideas basically vibe code stuff.</p>
+  <p align="center">Currently learning how to code past "Hello World!" figuring the rest out with AI as I go. I can also prompt-build projects that scratch my own itch: impactful stuff, with my own ideas, basically vibe coding my way through things.</p>
     <p align="center">
-    Very different context but I also know painting, cycling, swimming, karate, chess, cards, photography, video editing, digital art, abacus and yea what was the point if i dont write it here;) 
+   Very different context, but I also know painting, cycling, swimming, karate, chess, cards, photography, video editing, digital art, and abacus. And yeah, what was the point if I don't write it here ;)
     </p>
 </p>
  <div align="center">
