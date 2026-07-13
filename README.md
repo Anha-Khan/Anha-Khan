@@ -17,7 +17,7 @@
 <!-- Upload about_me.png and stickers.png to your repo root too -->
 <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_5.png" width="260"  />
 </div>
-<p align="center"><i>well, it's unrelated but yea I like cats, taking random pics, having 24 cups of coffee every single day & flowers if that helps. </i></p>
+<p align="center"><i>well, it's unrelated but yea I like cats, taking random pics, having 24 cups of coffee every single day,flowers & projects if that helps. </i></p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/stickers_1.png" width="450" />
 </div>
@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/my_skills.png" width="260" />
   <p align="center">currently learning, how to code "HELLO WORLD!" and figuring other things out using AI as i go,Also I can prompt build projects to stratch my own back,impactful projects with my own ideas basically vibe code stuff.</p>
     <p align="center">
-    Very different context but I also know painting,cycling,swimming,karate,chess,cards,photography,video editing,digital art,abacus and yea what was the point if i dont write it here  
+    Very different context but I also know painting, cycling, swimming, karate, chess, cards, photography, video editing, digital art, abacus and yea what was the point if i dont write it here;) 
     </p>
 </p>
  <div align="center">
