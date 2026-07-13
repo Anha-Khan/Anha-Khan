@@ -16,7 +16,7 @@
 </p>
 
 <br>
-
+<div align="center">
 <!-- Upload about_me.png and stickers.png to your repo root too -->
 <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_3.png"  />
 </div>
