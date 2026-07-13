@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">1st year CS Student at IUT
-  who is very into prompt &amp; product engineering</p>
+  who is very into prompt &amp; product engineering right now!</p>
 
 <p align="center">
 I like Building at hackathons. Also learning C, C++, Python
