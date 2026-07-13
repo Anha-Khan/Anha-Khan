@@ -1,11 +1,10 @@
-
 <!--
   1. Upload name_and_cat_big.png to your repo root
   2. Replace the "#" links with your real profiles
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/name_and_cat_big.png" width="550" />
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/name_and_cat_big_1.png" width="550" />
 </div>
 
 <br>
