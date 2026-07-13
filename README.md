@@ -17,14 +17,14 @@
 <!-- Upload about_me.png and stickers.png to your repo root too -->
 <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_5.png" width="260"  />
 </div>
-<p align="center"><i>well, it's unrelated but yea</i></p>
+<p align="center"><i>well, it's unrelated but yea I like cats, taking random pics, having 24 cups of coffee every single day & flowers if that helps. </i></p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/stickers_1.png" width="450" />
 </div>
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/my_skills.png" width="260" />
-  <p align="center">currently learning, how to code "HELLO WORLD!" and figuring other things out using AI  </p>
+  <p align="center">currently learning, how to code "HELLO WORLD!" and figuring other things out using AI as i go </p>
 </div>
 <br>
 <div align="center">
@@ -35,7 +35,7 @@
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/find_me_on.png" width="260" />
-<p align="center"> You can check them out ;) </p>
+<p align="center"> You can check them out ;) though my social life is on pause rn </p>
 </div>
 <br>
 <p align="center">
