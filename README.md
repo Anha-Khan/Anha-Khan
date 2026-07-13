@@ -31,7 +31,12 @@
 </p>
  <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/skill_stickers_1.png" width="320" />
+</div> 
+  <br>
+  
 </div>
+<p align="center">
+Might also pick up how to use software to command hardware at some point, who knows. </p>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=38BDF8" />
