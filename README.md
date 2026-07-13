@@ -1,10 +1,16 @@
 
+<!--
+  1. Upload name_and_cat_big.png to your repo root
+  2. Replace the "#" links with your real profiles
+-->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/banner.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/name_and_cat_big.png" width="550" />
 </div>
 
-<h2 align="center">Anha Khan</h2>
-<p align="center">CS Student, IUT — Prompt & Product Engineering</p>
+<br>
+
+<p align="center">CS Student, IUT — very into prompt &amp; product engineering</p>
 
 <p align="center">
   Building at hackathons. Learning C, C++, Python. Headed toward AI and robotics.
@@ -19,10 +25,7 @@
 </div>
 
 <br>
->
-
-<br>
 
 <p align="center">
-  <a href="#">LinkedIn</a> &nbsp;·&nbsp; <a href="#">Instagram</a> &nbsp;·&nbsp; <a href="#">Devpost</a>
+  <a href="#">LinkedIn</a> &nbsp;·&nbsp; <a href="#">Instagram</a> &nbsp;·&nbsp; <a href="#">Devpost</a> &nbsp;·&nbsp; <a href="#">Facebook</a> &nbsp;·&nbsp; <a href="#">X</a>
 </p>
