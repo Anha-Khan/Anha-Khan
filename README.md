@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="center">1st year CS Student at IUT —who is very into adding creative touch to things &amp; prompt &amp; product engineering </p>
+<p align="center">1st year CS Student at IUT —who is very into adding creative touch to things also into prompt &amp; product engineering </p>
 
 <p align="center">
  I like building at hackathons.
