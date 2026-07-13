@@ -24,7 +24,7 @@
 <p align="center"><i>well, it's unrelated but yea</i></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/stickers.png" width="450" />
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/stickers_1.png" width="450" />
 </div>
 
 <br>
