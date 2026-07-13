@@ -18,7 +18,7 @@
 <br>
 
 <!-- Upload about_me.png and stickers.png to your repo root too -->
-<img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me.png" align="left" />
+<img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_3.png" align="left" />
 <br clear="left">
 
 <p align="center"><i>well, it's unrelated but yea</i></p>
