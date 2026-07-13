@@ -7,17 +7,18 @@
 </div>
 <br>
 <p align="center">1st year CS Student at IUT —who is very into adding creative touch to things also into prompt &amp; product engineering </p>
-<p align="center">
- I like building at hackathons.
-  Currently learning C, C++, Python.
-  Will be Heading toward AI and robotics who knows!.
-</p>
+
 <br>
 <div align="center">
 <!-- Upload about_me.png and stickers.png to your repo root too -->
 <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_5.png" width="260"  />
 </div>
-<p align="center"><i>well, it's unrelated but yea I like cats, taking random pics, having 24 cups of coffee every single day,flowers & projects if that helps. </i></p>
+<p align="center">
+ I like building at hackathons.
+  Currently learning C, C++, Python.
+  Will be Heading toward AI and robotics who knows!.
+</p>
+<p align="center"><i>also, it's unrelated but yea I like cats, taking random pics, having 24 cups of coffee every single day,flowers & projects if that helps. </i></p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/stickers_1.png" width="450" />
 </div>
