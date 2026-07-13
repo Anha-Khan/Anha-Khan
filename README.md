@@ -9,13 +9,21 @@
 
 <br>
 
-<p align="center">1st year CS Student at IUT
-  who is very into prompt &amp; product engineering right now!</p>
+<p align="center">CS Student, IUT — very into prompt &amp; product engineering</p>
 
 <p align="center">
-I like Building at hackathons. Also learning C, C++, Python
- Maybe will head toward AI and robotics.
+  Building at hackathons. Learning C, C++, Python. Headed toward AI and robotics.
 </p>
+
+<br>
+
+<!-- Upload about_me.png and stickers.png to your repo root too -->
+<img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me.png" align="left" />
+<br clear="left">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/stickers.png" width="450" />
+</div>
 
 <br>
 
