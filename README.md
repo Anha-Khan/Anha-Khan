@@ -1,18 +1,13 @@
-<!--
-  HOW TO FINISH THIS:
-  1. Replace COVER_IMAGE_URL with a direct link to your chosen photo
-  2. Replace the three "#" links at the bottom with your real profiles
--->
 
 <div align="center">
-  <img src="COVER_IMAGE_URL" width="500" />
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/banner.gif" width="500" />
 </div>
 
 <h2 align="center">Anha Khan</h2>
-<p align="center">1st year CS Student, IUT, very into Prompt & Product Engineering</p>
+<p align="center">CS Student, IUT — Prompt & Product Engineering</p>
 
 <p align="center">
-loves hackathons. Learning C, C++, Python. Headed toward AI & robotics maybe.
+  Building at hackathons. Learning C, C++, Python. Headed toward AI and robotics.
 </p>
 
 <br>
