@@ -15,7 +15,7 @@
 <br>
 <div align="center">
 <!-- Upload about_me.png and stickers.png to your repo root too -->
-<img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_4.png"  />
+<img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_5.png"  />
 </div>
 <p align="center"><i>well, it's unrelated but yea</i></p>
 <div align="center">
