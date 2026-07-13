@@ -50,11 +50,11 @@ Might also pick up how to use software to command hardware at some point, who kn
 
   <p align="center"><i>You can check them out ;) though my social life is on pause rn</i></p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/anhakhan"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_linkedin.png" height="80" /></a>
-  <a href="https://www.instagram.com/anhaa._.a"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_instagram.png" height="80" /></a>
-  <a href="https://devpost.com/Anha-Khan"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_devpost.png" height="80" /></a>
-  <a href="https://www.facebook.com/share/1RqD8tAG3V/"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_facebook.png" height="80" /></a>
-  <a href="https://x.com/anhakhann"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_x.png" height="80" /></a>
+  <a href="https://www.linkedin.com/in/anhakhan"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_linkedin.png" height="60" /></a>
+  <a href="https://www.instagram.com/anhaa._.a"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_instagram.png" height="60" /></a>
+  <a href="https://devpost.com/Anha-Khan"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_devpost.png" height="60" /></a>
+  <a href="https://www.facebook.com/share/1RqD8tAG3V/"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_facebook.png" height="60" /></a>
+  <a href="https://x.com/anhakhann"><img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/s_x.png" height="60" /></a>
 </div>
 <br>
 <p align="center">
