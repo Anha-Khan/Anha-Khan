@@ -24,7 +24,11 @@
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/my_skills.png" width="260" />
-  <p align="center">currently learning, how to code "HELLO WORLD!" and figuring other things out using AI as i go </p>
+  <p align="center">currently learning, how to code "HELLO WORLD!" and figuring other things out using AI as i go,Also I can prompt build projects to stratch my own back,impactful projects with my own ideas basically vibe code stuff.</p>
+    <p align="center">
+    Very different context but I know also painting,cycling,swimming,karate,chess,cards,photography,video editing,digital art,abacus and yea what was the point if i dont write it here  
+    </p>
+</p>
  <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/skill_stickers.png" width="320" />
 </div>
