@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="center">CS Student, IUT
+<p align="center">1st year CS Student at IUT
   who is very into prompt &amp; product engineering</p>
 
 <p align="center">
