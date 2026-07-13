@@ -46,7 +46,7 @@ Might also pick up how to use software to command hardware at some point, who kn
 </div>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/find_me_on.png" width="260" />
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/find_me_on.png" width="280" />
 
   <p align="center"><i>You can check them out ;) though my social life is on pause rn</i></p>
 <div align="center">
