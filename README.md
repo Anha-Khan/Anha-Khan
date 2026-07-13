@@ -15,7 +15,7 @@
 <br>
 <div align="center">
 <!-- Upload about_me.png and stickers.png to your repo root too -->
-<img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_5.png"  />
+<img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/about_me_5.png" width="260"  />
 </div>
 <p align="center"><i>well, it's unrelated but yea</i></p>
 <div align="center">
@@ -24,6 +24,7 @@
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/my_skills.png" width="260" />
+  <p align="center">currently learning, how to code "HELLO WORLD!" and figuring other things out using AI  </p>
 </div>
 <br>
 <div align="center">
@@ -34,6 +35,7 @@
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/find_me_on.png" width="260" />
+<p align="center"> You can check them out ;) </p>
 </div>
 <br>
 <p align="center">
