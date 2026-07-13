@@ -9,10 +9,11 @@
 
 <br>
 
-<p align="center">CS Student, IUT — very into prompt &amp; product engineering</p>
+<p align="center">CS Student, IUT duh
+  who is very into prompt &amp; product engineering maybe</p>
 
 <p align="center">
-  Building at hackathons. Learning C, C++, Python. Headed toward AI and robotics.
+i like Building at hackathons. Also learning C, C++, Python, will head toward AI and robotics.
 </p>
 
 <br>
