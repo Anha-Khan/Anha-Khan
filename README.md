@@ -3,7 +3,7 @@
   (name_and_cat_big_1.png, about_me_4.png, stickers_1.png are already up)
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/name_and_cat_big_1.png" width="550" />
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/name_and_cat_big_1.png" width="450" />
 </div>
 <br>
 <p align="center">1st year CS Student at IUT —who is very into adding creative touch to things also into prompt &amp; product engineering </p>
