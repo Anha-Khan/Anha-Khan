@@ -25,6 +25,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/my_skills.png" width="260" />
   <p align="center">currently learning, how to code "HELLO WORLD!" and figuring other things out using AI as i go </p>
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/skill_stickers.png" width="320" />
 </div>
 <br>
 <div align="center">
