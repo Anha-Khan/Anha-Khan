@@ -30,7 +30,7 @@
     </p>
 </p>
  <div align="center">
-  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/skill_stickers.png" width="320" />
+  <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/skill_stickers_1.png" width="320" />
 </div>
 <br>
 <div align="center">
