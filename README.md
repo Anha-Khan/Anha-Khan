@@ -60,10 +60,3 @@ Might also pick up how to use software to command hardware at some point, who kn
 <p align="center">
   <a href="https://www.linkedin.com/in/anhakhan">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/anhaa._.a">Instagram</a> &nbsp;·&nbsp; <a href="https://devpost.com/Anha-Khan">Devpost</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/share/1RqD8tAG3V/">Facebook</a> &nbsp;·&nbsp; <a href="https://x.com/anhakhann">X</a>
 </p>
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
