@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Anha-Khan/Anha-Khan/main/name_and_cat_big_1.png" width="430" />
 </div>
 <br>
-<p align="center">1st year CS Student at IUT —who is very into adding creative touch to things also into prompt &amp; product engineering </p>
+<p align="center">2nd year CS Student at IUT —who is very into adding creative touch to things also into prompt &amp; product engineering </p>
 
 <br>
 <div align="center">
